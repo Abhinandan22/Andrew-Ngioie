@@ -1,0 +1,44 @@
+1st file 
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>My First Website</title>
+   </head>
+ <body>
+  <h1><em>Linked List</em></h1>
+  <h2>Stack</h1>
+  <h3>Queue</h3>
+  <h4>Tree</h4>
+      <a href="newpage.html">New Page</a> 
+  <ul>
+  	<li>apple</li>
+  	  <ol>
+  	    <li>Kashmir</li>
+  	    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFZ0b8VOuA79ZCfUEfN5RBfZ0A6wEp8t0XQw&usqp=CAU" width ="21" height="11"
+  	    <li>Himachal</li>
+  	  </ol>
+  	<li>banana</li>
+  	<li>orange</li>
+  	<li>grapes</li>
+  </ul>
+
+  <p>I am <strong>developing</strong> this</p>
+</body>
+</html>
+
+
+2nd file
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>This is my new page</title>
+</head>
+<body>
+<p>Old page calling the new page</p>
+<a href="Andrew_ngioi.html">Old Page link</a>
+</body>
+</html>
