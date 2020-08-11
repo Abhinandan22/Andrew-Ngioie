@@ -17,7 +17,7 @@
             <input type="radio" name = "gender" value="Other">Other<br>
 
     Cars:<br>
-    <select>
+    <select name="cars">
     	<option value="Volvo" name="cars">Volvo</option>
     	<option value="Audi" name="cars">Audi</option>
     	<option value="Fortuner" name="cars">Fortuner</option>
@@ -28,4 +28,6 @@
 </body>
 </html>
 
+
+Fill in the values for fields in the forms and submit. On submitting you will find the values of the fields and its values on the address bar.
 
