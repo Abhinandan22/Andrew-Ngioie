@@ -1,0 +1,5 @@
+Accept number and find sum :-
+
+var firstNum = prompt("Enter first number");
+var secondNum = prompt("Enter second number");
+alert(Number(firstNum) + Number(secondNum));
