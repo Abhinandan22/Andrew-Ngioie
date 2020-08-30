@@ -1,0 +1,21 @@
+body{
+	background-image:url(felipe-marmol-F3AYuf7iGBY-unsplash.jpg);
+}
+
+
+h2, p{
+	color:red;
+	text-align: center;
+	border: 5px solid rgb(0,255,0);
+	cursor: pointer;
+}
+
+p{ 
+	color : #AA3939;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
